@@ -52,10 +52,9 @@ npm start
 
 ### Run unittests
 
-`markdownlint(MD038)
-DB_USER=root DB_PASSWORD=root DB_HOST=localhost DB_PORT=3306 DB_DATABASE=reason python3 -m unittest discover tests`
+`DB_USER=root DB_PASSWORD=root DB_HOST=localhost DB_PORT=3306 DB_DATABASE=reason python3 -m unittest discover tests`
 
-```markdownlint(MD038)
+```markdownlint(MD040)
 .
 ├── README.md
 ├── backend
